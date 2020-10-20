@@ -18,4 +18,4 @@ This should setup a listener for the code to get data from the simulator.
 These steps should get any user in a Linux/Mac environment up and running with the code.
 
 ## Documentation
-Refer to [KalmanFilter.ipynb] for documentation of theory and code.
+Refer to [KalmanFilter.ipynb](https://github.com/chandrusuresh/CarND-Extended-Kalman-Filter-Project-master/blob/master/KalmanFilter.ipynb) for documentation of theory and code.
